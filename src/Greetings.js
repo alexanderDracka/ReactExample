@@ -13,3 +13,5 @@ export default class Greetings extends React.Component {
     return <h1>Hello, {this.props.name}</h1>;
   }
 }
+
+
